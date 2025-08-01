@@ -248,3 +248,11 @@ If you need help or have questions, please:
 * Join our community forum
 
 ---
+
+
+VITE_SERVER_URL=https://shesync.onrender.com/
+
+VITE_GEMINI_API_KEY=AIzaSyAlH6fGlkav2uGJckN3diEO1HGAhzztYME
+VITE_CLERK_PUBLISHABLE_KEY=pk_test_YW11c2luZy1ob3JuZXQtOS5jbGVyay5hY2NvdW50cy5kZXYk
+
+VITE_GOOGLE_MAPS_API_KEY=AIzaSyB5pTapWtBsb95f5qpxiadprABnynOIZdQ
